@@ -1,4 +1,4 @@
-Replication kit for Hagedorn, Law, Manovskii Econometrica 2008.
+Replication kit for Hagedorn, Law, Manovskii Econometrica 2017.
 
 Paper at: http://onlinelibrary.wiley.com/doi/10.3982/ECTA11301/full
 or 
